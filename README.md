@@ -5,14 +5,6 @@ Example here:
 http://switch.migueldeveloper.pt/
 
 
-To install include this on your project
-<!--Insert inside a <head> tag or right before closing your <body> tag-->
-<script src="https://code.jquery.com/jquery-3.4.1.min.js" type="text/javascript"></script>
-<script src="http://switch.migueldeveloper.pt/js/canecode_switch.js" type="text/javascript"></script>
-<link href="http://switch.migueldeveloper.pt/css/canecode_switch.css" rel="stylesheet" type="text/css">
-<!--:-->
-
-
 Description:
 
 This is a simple plugin
